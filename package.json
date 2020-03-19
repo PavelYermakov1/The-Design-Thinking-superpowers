@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "style": "sass src/sass/style.scss src/sass/style.css",
+    "style": "sass --watch src/sass/style.scss src/sass/style.css",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/PavelYermakov1/The-Design-Thinking-superpowers/issues"
   },
-  "homepage": "https://github.com/PavelYermakov1/The-Design-Thinking-superpowers#readme"
+  "homepage": "https://github.com/PavelYermakov1/The-Design-Thinking-superpowers#readme",
+  "dependencies": {
+    "normalize-scss": "^7.0.1"
+  }
 }
