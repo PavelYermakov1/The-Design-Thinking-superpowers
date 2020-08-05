@@ -1,1 +1,1 @@
-# The-Design-Thinking-superpowers
+# friday-live-coding
